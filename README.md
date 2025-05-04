@@ -1,8 +1,8 @@
 # Hi there, I'm Rico 👋🏻👨🏻‍💻 
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=RicoCTY&label=Profile%20views&color=0e75b6&style=flat" alt="RicoCTY" /> 
-</div>
+  <img src="https://komarev.com/ghpvc/?username=RicoCTY&label=Profile%20views&color=0e75b6&style=flat" alt="RicoCTY" />
+</div><br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Biotech+Student+%7C+Emerging+Developer;Curious+Mind+%7C+Continuous+Learner;Turning+Ideas+Into+Code" alt="Typing SVG" />
