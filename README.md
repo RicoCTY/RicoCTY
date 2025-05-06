@@ -19,7 +19,7 @@
 
 ### Languages & Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,html,css,javascript,php,nodejs,markdown,docker,git,discord,canva,figma,blender&theme=dark&perline=8)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,html,css,javascript,php,nodejs,markdown,docker,git,discord,canva,figma&theme=dark&perline=8)
 
 ### Currently Learning
 
