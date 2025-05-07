@@ -29,6 +29,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=RicoCTY&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicoCTY&layout=compact&langs_count=6&theme=github_dark_dimmed)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RicoCTY&theme=github_dark_dimmed&hide_border=false)<br/>
 
 ---
