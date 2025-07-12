@@ -23,7 +23,7 @@
 
 ### Currently Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vue,mongodb,r,cs,unity,robloxstudio,photoshop,java&theme=dark&perline=#)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vue,mongodb,r,cs,unity,photoshop,java&theme=dark&perline=#)
 
 ## 📊 GitHub Stats
 
