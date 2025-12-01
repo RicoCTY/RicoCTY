@@ -5,22 +5,15 @@
 </div><br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Biotech+Student+%7C+Emerging+Developer;Curious+Mind+%7C+Continuous+Learner;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-strack+Developer+%7C+AI+Specialist;Curious+Mind+%7C+Continuous+Learner;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-+ Biotechnology and Computer Science student with a passion for programming
-+ Recently embarked on my coding journey
-+ Enthusiastic about solving problems through code
-+ Constantly learning and building new projects
++ 🧬 Biotechnology and Computer Science student with a passion for creating practical tools and solving complex problems
 
-## 🛠️ Tech Stack
++ 🤖 I build and implement automation tools using modern web stacks, AI agents, and frameworks like the Model Context Protocol (MCP) to derive insights and streamline processes
 
-### Languages & Tools
++ 🔭 I apply a unique perspective bridging domains from InsuranceTech to biotechnology to accelerate projects and deliver tangible impact
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,html,css,javascript,php,nodejs,markdown,docker,git,discord,canva,figma&theme=dark&perline=8)
-
-### Currently Learning
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vue,mongodb,r,cs,unity,photoshop,java&theme=dark&perline=#)
++ 🎯 Constantly learning, building, and seeking challenges where I can apply technical execution to solve strategic problems
