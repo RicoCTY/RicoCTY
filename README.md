@@ -14,18 +14,6 @@
 
 🎯 **AI Solutions Specialist** in InsuranceTech, building intelligent systems that streamline processes and deliver tangible business impact
 
-## 🔧 Technical Focus
-
-### **Full-Stack Development**
-- **Frontend**: React.js, TypeScript, modern web frameworks
-- **Backend**: Node.js, Python, API development
-- **Tools & Automation**: n8n workflows automation
-
-### **AI & Automation**
-- **AI Agents**: Designing and implementing autonomous agent systems
-- **MCP (Model Context Protocol)**: Building with modern AI frameworks
-- **Prompt Engineering**: Crafting effective LLM interactions and optimizations
-
 ## 💼 Current Role
 ### **AI Solutions Specialist @PortfopPlus**
 - Building AI-powered tools for insurance processes and data analysis
