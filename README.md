@@ -1,7 +1,7 @@
 # Hi there, I'm Rico 👋🏻👨🏻‍💻 
-
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=RicoCTY&label=Profile%20views&color=0e75b6&style=flat" alt="RicoCTY" />
+  <a href="https://wakatime.com/@a2c34cd1-9ff9-4885-ab30-e2696ae683d7"><img src="https://wakatime.com/badge/user/a2c34cd1-9ff9-4885-ab30-e2696ae683d7.svg" alt="wakatime"></a>
 </div>
 
 <div align="center">
