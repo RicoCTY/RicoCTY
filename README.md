@@ -5,17 +5,17 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-stack+Developer+%7C+AI+Specialist;Curious+Mind+%7C+Continuous+Learner;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-stack+Developer+%7C+AI+Engineer;Curious+Mind+%7C+Continuous+Learner;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 🧬 **Biotechnology & Computer Science** student with a passion for creating practical tools
 
-🎯 **AI Solutions Specialist** in InsuranceTech, building intelligent systems that streamline processes and deliver tangible business impact
+🎯 **AI Engineer** in InsuranceTech, building intelligent systems that streamline processes and deliver tangible business impact
 
 ## 💼 Current Role
-### **AI Solutions Specialist @PortfopPlus**
+### **AI Engineer @PortfopPlus**
 - Building AI-powered tools for insurance processes and data analysis
 - Implementing n8n automation systems to improve efficiency
 - Bridging technical execution with strategic business problems
