@@ -18,9 +18,3 @@ My core interests lie in:
 - **Harness Engineering** & **Multi-agent systems**
 
 ---
-
-## 🌐 Let's Connect
-
-- **LinkedIn** — [linkedin.com/in/ricocty](https://hk.linkedin.com/in/ricocty)
-
-Always open to collaborating on **AI agents**, **RAG** or interesting **InsurTech + AI** projects!
